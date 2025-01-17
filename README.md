@@ -1,2 +1,2 @@
 # ProIRAE
-Noninvasive proteomic modeling for monitoring and risk stratification of immune-related adverse events in checkpoint immunotherapy
+Plasma proteomics improves personalized monitoring and risk stratification for immune-related adverse events in checkpoint immunotherapy
